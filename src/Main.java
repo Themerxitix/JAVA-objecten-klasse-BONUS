@@ -6,11 +6,13 @@ public class Main
 //
 //        System.out.println(module.toString());
 
-        Store appie = new Store("-", "-", 0, 0);
-        appie.increaseProduct("cola", 520);
-        appie.amountInTheStore("cola");
-        appie.decreaseProduct("cola", 340);
-        appie.amountInTheStore("cola");
+//        Store appie = new Store("-", "-", 0, 0);
+//        appie.increaseProduct("cola", 520);
+//        appie.amountInTheStore("cola");
+//        appie.decreaseProduct("cola", 340);
+//        appie.amountInTheStore("cola");
+
+
 
     }
 }
